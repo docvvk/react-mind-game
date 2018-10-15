@@ -1,0 +1,28 @@
+.MemoryGame {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Grid {
+  display: flex;
+  width: 400px;
+  height: 400px;
+}
+
+.Cell {
+  background: #666;
+  color: #666;
+  border: 2px solid #fff;
+  padding: 2rem;
+  flex: 1;
+}
+
+.Cell.flipped {
+  background: #ccc;
+  color: #000;
+}
+
+.Cell.found {
+  opacity: 0;
+}
