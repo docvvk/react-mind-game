@@ -38,7 +38,7 @@ Click for the live app deployed on Heroku
 
 ### Author
 
-[Vivek Malhan](https://github.com/docvvk)
+> [Vivek Malhan](https://github.com/docvvk)
 
 
 
