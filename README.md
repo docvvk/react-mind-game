@@ -1,8 +1,9 @@
 # React MindGame
 
 Cards matching game created using ReactJS and deployed on Heroku using this guide
-> ["Deploying React with Zero Configuration"](https://blog.heroku.com/deploying-react-with-zero-configuration)
+> [Deploying React with Zero Configuration](https://blog.heroku.com/deploying-react-with-zero-configuration)
 
+Click for the live app deployed on Heroku
 > [Live Demo](https://floating-anchorage-56997.herokuapp.com/)
 
 ### Installation
