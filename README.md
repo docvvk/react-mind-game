@@ -4,7 +4,7 @@ Cards matching game created using ReactJS and deployed on Heroku using this guid
 > [Deploying React with Zero Configuration](https://blog.heroku.com/deploying-react-with-zero-configuration)
 
 Click for the live app deployed on Heroku
-> [Live Demo](https://arcane-shelf-25894.herokuapp.com/)
+> [Live Demo](https://thawing-shore-30878.herokuapp.com/)
 
 ### Installation
 
