@@ -1,6 +1,6 @@
-# Memory Match Game React
+# React MindGame
 
-Basic memory cards matching game using ReactJS deployed on Heroku using this guide "Deploying React with Zero Configuration"](https://blog.heroku.com/deploying-react-with-zero-configuration)
+Cards matching game created using ReactJS and deployed on Heroku using this guide => ["Deploying React with Zero Configuration"](https://blog.heroku.com/deploying-react-with-zero-configuration)
 
 [Live Demo](https://floating-anchorage-56997.herokuapp.com/)
 
